@@ -41,6 +41,6 @@ I'm excited to collaborate, learn, and grow with each new project. Shall we buil
 
 <div>
 <a href="https://github.com/jo-ovic">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jo-ovic&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jo-ovic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jo-ovic&layout=compact&langs_count=7&theme=github_dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jo-ovic&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
