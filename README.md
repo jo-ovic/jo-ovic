@@ -1,4 +1,4 @@
-# 👋 Hello! I'm João Victor Nobre Rodrigues
+# 👋 Hello! I'm João Rodrigues
 
 I'm passionate about technology and creating solutions that make a real difference. I hold a degree in **Information Systems** and am a certified **Product Owner (PO)**. My journey began as a **Tester** at EasyProducts, where I learned the art of ensuring quality in every line of code and process. This experience paved the way to my role as an **IT Intern** at Alques, where I gained hands-on experience in areas from technical support to systems administration, discovering the many ways technology transforms businesses.
 
